@@ -115,9 +115,9 @@ Als je tegen een probleem aanloopt of een bug hebt gevonden dan kun je gemakkeli
 
 
 # Toekomstige Ideeen
-[ ] Dit afmaken
-[ ] Mogelijkheid toevoegen om dit aan de led strip te koppelen in de makerij
-[ ] Extensie afmaken voor alle functies op de byteboard
+[] Dit afmaken
+[] Mogelijkheid toevoegen om dit aan de led strip te koppelen in de makerij
+[] Extensie afmaken voor alle functies op de byteboard
 
 
 
