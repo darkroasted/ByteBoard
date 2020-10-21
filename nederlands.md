@@ -105,7 +105,9 @@ je kan onderaan zien of het klaar is.
 
 ![image](https://raw.githubusercontent.com/darkroasted/ByteBoard-MBlock-Extension/master/images/Schermafbeelding%202020-03-09%20om%2017.36.24.png)
 
-
+# Toekomstige Ideen
+- Dit afmaken
+- Mogelijkheid toevoegen om dit aan de led strip te koppelen in de makerij
 
 
 
