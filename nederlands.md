@@ -89,12 +89,21 @@ Eerst moeten we het correcte board selecteren. Dit doen we door in het Arduino p
 
 ![image](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/images/board-select.png?raw=true)
 
+Nu moeten we even de bootloader selecteren dit down we door weer naar Hulpmiddelen te gaan en dan via Hulpmiddelen > Processor en dan "ATmega328P (old bootload) te selecteren"
+
+![image](https://raw.githubusercontent.com/darkroasted/ByteBoard-MBlock-Extension/master/images/bootloader-select.png)
+
+Nu kunnen we de poort selecteren. Dit doen we weer bij Hulpmiddelen en dan Naar poort en dan selecteer je iets met CHU.W. (niet die ene met bluetooth)
+
 Om het nu op de board te plaatsen klikken we op het upload pijltje
 
 ![image](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/images/arduino-ide-upload.png?raw=true)
 
-Nu moeten 
+Nu moeten we wachten tot het klaar is....
 
+je kan onderaan zien of het klaar is.
+
+![image](https://raw.githubusercontent.com/darkroasted/ByteBoard-MBlock-Extension/master/images/Schermafbeelding%202020-03-09%20om%2017.36.24.png)
 
 
 
