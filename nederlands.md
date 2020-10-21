@@ -4,7 +4,7 @@
 - [Wat is dit?](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#wat-is-dit)
 - [Instalatie](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#instalatie)
 - [Gebruik](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#gebruik)
-- [Problemen oplossen]
+- [Problemen en bugs](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#problemen-en-bugs)
 - [Toekomstige Ideeen](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#toekomstige-ideeen)
 
 # Wat is dit?
