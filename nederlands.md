@@ -1,8 +1,8 @@
 # ByteBoard met Mblock
 
 # Inhoud
-- Wat is dit?
-- Instalatie
+- [Wat is dit?] (https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#wat-is-dit)
+- [Instalatie] (https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#instalatie)
 - Gebruik
 - Problemen oplossen
 - Toekomstige Ideeen
