@@ -1,10 +1,11 @@
 # ByteBoard-MBlock-Extension
 Go to english instructions
-![button](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/english.md)
+[![button](http://www.globalnerdy.com/wordpress/wp-content/uploads/2016/04/arrow-right.png)](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/english.md)
 
 Ga naar Nederlanse uitleg
 
-[![button](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
+[![button](http://www.globalnerdy.com/wordpress/wp-content/uploads/2016/04/arrow-right.png)](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
+
 
 
 # Libraries
