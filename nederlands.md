@@ -1,11 +1,11 @@
 # ByteBoard met Mblock
 
 # Inhoud
-- [Wat is dit?] (https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#wat-is-dit)
-- [Instalatie] (https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#instalatie)
-- Gebruik
-- Problemen oplossen
-- Toekomstige Ideeen
+- [Wat is dit?](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#wat-is-dit)
+- [Instalatie](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#instalatie)
+- [Gebruik](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#gebruik)
+- [Problemen oplossen]
+- [Toekomstige Ideeen](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md#toekomstige-ideeen)
 
 # Wat is dit?
 De byteboard is een board met alles erop en eraan. Dit maakt het gemakkelijk voor leerlingen om deze te leren programmeren. Doordat alles er al op zit is het (bijna) onmogelijk om iets kapot te maken. Je kan het gemakkelijk programeren met de arduino IDE (instructies) of met het blokjes programma Mblock (instructies).
@@ -105,7 +105,7 @@ je kan onderaan zien of het klaar is.
 
 ![image](https://raw.githubusercontent.com/darkroasted/ByteBoard-MBlock-Extension/master/images/Schermafbeelding%202020-03-09%20om%2017.36.24.png)
 
-# Toekomstige Ideen
+# Toekomstige Ideeen
 - Dit afmaken
 - Mogelijkheid toevoegen om dit aan de led strip te koppelen in de makerij
 
