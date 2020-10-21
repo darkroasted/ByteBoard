@@ -105,6 +105,15 @@ je kan onderaan zien of het klaar is.
 
 ![image](https://raw.githubusercontent.com/darkroasted/ByteBoard-MBlock-Extension/master/images/Schermafbeelding%202020-03-09%20om%2017.36.24.png)
 
+# Problemen en Bugs
+Als je tegen een probleem aanloopt of een bug hebt gevonden dan kun je gemakkelijk dit aageven of om hulp vragen via de "issues" tablad van deze repo. Als het urgent is kun je mij een mailtje sturen
+
+(Problemen aangeven)[https://github.com/darkroasted/ByteBoard-MBlock-Extension/issues]
+1. Klik op new issue (groene knop)
+2. Beschrijf hierin je probleem en plak hier ook de error codes die krijgt, zowel als screenschots van je programma en waar het vastloopt. Geef eventueel ook aan wat je al hebt geprobeerd.
+3. klik op submit. Mogelijk moet je nog een github account aanmaken. Doe dat dan.
+
+
 # Toekomstige Ideeen
 - Dit afmaken
 - Mogelijkheid toevoegen om dit aan de led strip te koppelen in de makerij
