@@ -1,4 +1,4 @@
-# ByteBoard-MBlock-Extension
+# ByteBoard
 Go to english instructions
 https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/english.md
 
