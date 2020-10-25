@@ -6,8 +6,7 @@
 
 #### Go to english instructions
 
-https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md
-[ENGELSE INSTRUCTIES](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
+[ENGLISH INSTRUCTIONS](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
 
 
 # Libraries
