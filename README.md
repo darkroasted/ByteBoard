@@ -2,11 +2,11 @@
 #### Ga naar Nederlanse uitleg
 
 
-[NEDERLANDSE INSTRUCTIES](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/english.md)
+[NEDERLANDSE INSTRUCTIES](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
 
 #### Go to english instructions
 
-[ENGLISH INSTRUCTIONS](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/nederlands.md)
+[ENGLISH INSTRUCTIONS](https://github.com/darkroasted/ByteBoard-MBlock-Extension/blob/master/english.md)
 
 
 # Libraries
